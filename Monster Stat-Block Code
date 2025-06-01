@@ -1,0 +1,41 @@
+{{monster,frame
+## Goblin
+*Small humanoid, neutral evil*
+___
+**Armor Class** :: 15 (leather armor, shield)  
+**Hit Points** :: 7 (2d6)  
+**Speed** :: 30ft.
+___
+|STR|DEX|CON|INT|WIS|CHA|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+|8 (-1)|14 (+2)|10 (+0)|10 (+0)|8 (-1)|8 (-1)|
+___
+**Skills** :: Stealth +6  
+**Senses** :: Darkvision 60 ft., passive Perception 9  
+**Languages** :: Common, Goblin  
+**Challenge** :: 1/4 (50 XP)
+___
+
+**Nimble Escape.** :: The goblin can take the Disengage or Hide action as a bonus action on each of its turns.
+
+### Actions
+***Scimitar.*** :: *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 5 (1d6 + 2) slashing damage.
+
+***Javelin.*** :: *Melee or Ranged Weapon Attack:* +4 to hit, reach 5 ft. or range 30/120 ft., one target. *Hit:* 5 (1d6 + 2) piercing damage.
+
+### Dropped Items
+When a goblin is defeated, it might drop the following:
+* **Scimitar:** A standard, often poorly maintained, curved blade.
+* **Shield:** A small wooden shield, likely adorned with crude goblin symbols.
+* **Leather Armor:** Basic protection made from crudely stitched animal hides.
+* **Javelin (1d4):** A light spear designed for throwing.
+* **Pouch:** Contains 1d6 copper pieces and 1d4 silver pieces.
+* **Trinkets (Roll 1d6, on a 5-6 the goblin has one):**
+  1. A smooth, grey river stone.
+  2. A button taken from a stolen piece of clothing.
+  3. A chicken feather dyed a garish blue.
+  4. A small, tarnished tin soldier.
+  5. A shard of a broken mirror.
+  6. A bent and rusty nail.
+___
+}}
